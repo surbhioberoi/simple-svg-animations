@@ -1,7 +1,8 @@
-# simple-svg-animations
+# Simple-svg-animations
+Created using HTML5 SVG and pure CSS. 
 
-## name svg 
-![name](http://i.imgur.com/pg4Lc12.gifv)
+## Name SVG 
+![](http://i.imgur.com/JbzVr6F.gifv)
 
-## star svg
-![star](http://i.imgur.com/KAD3EYs.gifv)
+## Star SVG
+![](http://i.imgur.com/DPIM7QO.gifv)
