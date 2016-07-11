@@ -1,0 +1,20 @@
+.triangle {
+  animation: star 1s infinite;
+  animation-timing-function: ease-in;
+	animation-fill-mode: forwards
+}
+
+@keyframes star {
+  0% {
+    fill:skyblue;
+    stroke:skyblue;
+  }
+  50% {
+    fill:pink;
+    stroke:pink;
+  }
+  100% {
+    fill:gray;
+    stroke:gray;
+  }
+}
