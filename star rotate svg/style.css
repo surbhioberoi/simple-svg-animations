@@ -1,0 +1,14 @@
+#star {
+  position: relative;
+  right: 200;
+}
+
+.outer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inner {
+  max-width: 100%;
+}

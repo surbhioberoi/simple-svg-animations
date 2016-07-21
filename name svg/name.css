@@ -1,25 +1,29 @@
-
 .path {
   stroke-dasharray: 2000;
   stroke-dashoffset: 2000;
   animation: dash 5s linear;
-  animation-fill-mode:forwards;
+  animation-fill-mode: forwards;
+ 
 }
 
 #path2 {
-  animation-delay:1s;
+  animation-delay: 1s;
 }
+
 #path3 {
-  animation-delay:3s;
+  animation-delay: 3s;
 }
+
 #path4 {
-  animation-delay:4s;
+  animation-delay: 4s;
 }
+
 #path5 {
-  animation-delay:5.8s;
+  animation-delay: 5.8s;
 }
+
 #path6 {
-  animation-delay:2s;
+  animation-delay: 2s;
 }
 
 @keyframes dash {

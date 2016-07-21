@@ -1,10 +1,10 @@
-# Simple-svg-animations
-Created using HTML5 SVG and pure CSS. 
+### SVG Animations 
 
-## Name SVG 
+Animations done using different techniques.
 
-![](http://i.imgur.com/S0Gcezr.gif)
+The star, name, cirlces animation is done in CSS3 on SVG paths.
 
-## Star SVG
+The boat animation is done in JavaScript and uses jQuery with vivus.js
 
-![](http://i.imgur.com/DPIM7QO.gif)
+The star rotate animation is done in HTML5 animate tag, also known as SMIL (Synchronized Multimedia Integration Language). CSS uses flexbox. 
+
